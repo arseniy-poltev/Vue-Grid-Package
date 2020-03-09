@@ -1,0 +1,10 @@
+/.circleci
+/.idea
+/docs
+/node_modules
+/webpack
+.editorconfig
+.eslintignore
+.eslintrc
+.npmignore
+*.tgz
