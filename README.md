@@ -1,5 +1,4 @@
 # vuetify-dupes-grid
-If you want to donate for this project, please feel free to contact me on skype. mars_jndevs@outlook.com.
 Vuetify Dupes Grid components for Vuetify.js
 
 ## Installation
